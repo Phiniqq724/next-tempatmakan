@@ -1,3 +1,7 @@
 export default function CommunityPage() {
-  return <main></main>;
+  return (
+    <main>
+      <div></div>
+    </main>
+  );
 }
